@@ -5,11 +5,11 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['0'],
   ['0'],
-  ['6282124128334', 'RedstoneCraft', '6281211006838', 'Klebitz' false]
+  ['6282124128334', 'RedstoneCraft', '6281211006838', 'Klebitz' true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6281211006838'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
