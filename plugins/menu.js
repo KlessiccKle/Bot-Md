@@ -14,7 +14,6 @@ let tags = {
   'internet': 'INTERNET',
   'nulis': 'NULIS',
   'downloader': 'DOWNLOADER',
-  'dewasa': 'DEWASA',
   'tools': 'TOOLS',
   'maker': 'MAKER',
   'fun': 'FUN',
@@ -32,8 +31,8 @@ const defaultMenu = {
 │✾ Runtime: %uptime
 ╰❑
 ╭────❑「 INFO 」❑────
-│•Join Official ByuBotz Group
-│https://chat.whatsapp.com/BDhvAxeGwFjGj10KdQMunR
+│•Its Me KlebitzBOT I'm Using Node.js
+│For Working Properly☺
 ╰────
 %readmore`.trimStart(),
   header: '┌ 「 *%category* 」',
